@@ -112,7 +112,7 @@ display: flex;
     cursor: pointer;
   }
 
-  button[type=button] {
+  button{
    
     background-color: #8bc6e9;
     color: rgb(117, 114, 114);
